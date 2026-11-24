@@ -1,6 +1,6 @@
 "Hello Git" 
 This is the first line 
-Usually I will print "Hello World" But I printed "Hello Git instead. 
+Usually I will print "Hello World" But I printed "Hello Git" instead. 
 
 
 third line added in feature 1 
