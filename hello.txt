@@ -4,3 +4,6 @@ Usually I will print "Hello World" But I printed "Hello Git instead.
 
 
 third line added in feature 1 
+
+Fourth line added from local repo. 
+
